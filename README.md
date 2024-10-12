@@ -2,7 +2,7 @@
 Este es un proyecto simple realizado con Python y Kivy, para ayudar a los jugadores del juego de rol Anima Beyond Fantasy a crear a sus psiquicos sin tener que consultar los múltiples manuales y complementos en los que están repartidas las diferentes disciplinas y poderes.
 
 >[!NOTE] 
->La app no ha sido completamente desarrollada y de momento no es funcional
+>La app no ha sido completamente desarrollada y de momento no es funcional en Android
 
 ## Características
 
