@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anima Psionic Cards</string>
+    <string name="private_version">768417dbf260d355d0a92d0e3d2e995386ab1b49</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>

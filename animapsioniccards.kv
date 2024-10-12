@@ -1,0 +1,261 @@
+WindowManager:
+    MainWindow:
+    PowersWindow:
+    CardWindow:
+    CreatePsiquico:
+    showPsiquico:
+
+<MainWindow>:
+    name: "main"
+    BoxLayout:
+        id: box_layout
+        orientation: "vertical"
+        size: root.width, root.height
+
+        Header:
+            size_hint: (None, 0.1)
+            width: root.width
+
+        Label:
+            id: output_label_up
+            text: ""
+            size_hint: 1, 0.1
+
+        ScrollView:
+            do_scroll_y: False
+            do_scroll_x: True
+
+            BoxLayout:
+                id: tarjetas
+                orientation: "horizontal"
+                size_hint_x: None
+                width: self.minimum_width
+                spacing: "20dp"
+                padding: "20dp"
+
+        Label:
+            id: output_label
+            text: ""
+            size_hint: 1, 0.3
+            text_size: self.width, None
+            size_hint_y: None
+            halign: 'left'
+            valign: 'middle'
+            padding: 20, 20
+            
+
+<CreatePsiquico>:
+    name: "create_psiquico"
+
+    BoxLayout:
+        orientation: "vertical"
+        size: root.width, root.height
+
+        Header:
+            id: header
+            size_hint: (None, 0.1)
+            width: root.width
+
+        BoxLayout:
+            orientation: "horizontal"
+            size_hint: 1, 0.1
+            Label:
+                text: "Name"
+                size_hint_x: None
+            TextInput:
+                id: nombre_psiquico
+
+        BoxLayout:
+            ScrollView:
+                id: scroll_view
+                width: root.width * 0.8
+
+                BoxLayout:
+                    id: scroll_layout
+                    orientation: "vertical"
+                    size_hint_y: None
+                    height: self.minimum_height
+            
+        Button:
+            text: "Submit"
+            background_color: 0.5, 0.5, 1, 1
+            size_hint_y: 0.1
+            on_press: root.submit_psiquico()
+
+
+<showPsiquico>:
+    name: "show_psiquico"
+    BoxLayout:
+        orientation: "vertical"
+
+        Header:
+            id:header
+            size_hint: (None, 0.1)
+            width: root.width
+
+        ScrollView:
+            BoxLayout:
+                id: scroll_layout
+                orientation: "vertical"
+                size_hint_y:None
+        
+        BoxLayout:
+            id: options_layout
+            orientation: 'horizontal'
+            size_hint_y: None
+            height: 50  # Ajusta la altura a tu gusto
+
+            Button:
+                id: boton_borrar
+                text:"Borrar"
+                size_hint_y: None
+                height: 50
+                background_color: 1,0,0,1
+
+            Button:
+                id: boton_modificar
+                text:"Modificar"
+                size_hint_y: None
+                height: 50
+                background_color: 0,1,1,1
+
+
+
+<Header@BoxLayout>:
+    BoxLayout:
+        orientation: "horizontal"
+        
+        Button:
+            id: button
+            background_color: 1, 1, 1, 1
+            size_hint_x: 0.3
+            width: "10dp"
+            height: "10dp"
+            text: "<--"
+            pos_hint_x: "left"
+        
+        Label:
+            id: output_text
+            text: ""
+
+        
+        Button:
+            background_color: 1, 1, 1, 1
+            on_press: #Agregar un desplegable en kv
+            size_hint_x: 0.3
+            width: "10dp"
+            height: "10dp"
+            text: "..."
+            pos_hint_x: "left"
+            
+         
+
+
+
+<PowersWindow>:
+    name: "powers"
+    BoxLayout:
+        orientation: "vertical"
+        size: root.width, root.height
+
+        Header:
+            id: header
+            size_hint: (None, 0.1)
+            width: root.width
+
+        ScrollView:
+            do_scroll_x: False
+            do_scroll_y: True
+            GridLayout:
+                id: powers_grid
+                cols: 1
+                size_hint_y: None
+                height: self.minimum_height
+
+<CardWindow>:
+    name: "card"
+    BoxLayout:
+        orientation: "vertical"
+        size: root.width, root.height
+
+        Header:
+            id: header
+            size_hint: (None, 0.1)
+            width: root.width
+
+
+        RelativeLayout:
+
+            Image:
+                id: background_image
+                source: "DisciplineCards/CardPower.png"
+                size_hint: None, None
+                width: 568
+                height: 789
+                
+            
+            Label:
+                id: nivel_poder
+                font_size: 60
+                color: 0,0,0,1
+                size_hint: (None, None)
+                pos: 435, 650
+                bold: True
+
+            Label:
+                id: nombre_poder
+                font_size: 30
+                color: 1,1,1,1
+                size_hint: (None, None)
+                width: 342
+                height: 68
+                pos: 50, 700
+                valign: 'middle'
+                color: 1,1,1,1
+                bold: True
+                text_size: self.size
+            
+            Label:
+                id: Descripcion
+                size_hint: (None, None)
+                width: 400
+                height: 430
+                pos: 80, 160
+                color: 0,0,0,1
+                text_size: self.size
+                valign: "top"
+
+            Label:
+                id: Accion
+                size_hint: (None, None)
+                width: 100
+                height: 20
+                pos: 80, 610
+                color: 0,0,0,1
+            
+            Label:
+                id: Mantenimiento
+                size_hint: (None, None)
+                width: 150
+                height: 20
+                pos: 200, 610
+                color: 0,0,0,1
+                text_size: self.size
+            
+            Label:
+                id: Cogito
+                size_hint: (None, None)
+                width: 150
+                height: 20
+                pos: 340, 610
+                color: 0,0,0,1
+            
+            Label:
+                id: Maestria
+                size_hint: (None, None)
+                pos: 60, 60
+                width: 440
+                color: 0,0,0,1
+
+    
+

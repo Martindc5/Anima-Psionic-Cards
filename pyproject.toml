@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "anima-psionic-cards"
+version = "0.1.0"
+description = "This is a simple proyect to make Anima gamers easimentalists"
+authors = ["Martindc <martin.delacueva5@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+kivy = "^2.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

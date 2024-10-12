@@ -1,0 +1,56 @@
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/arm64-v8a/objs-debug/webpdecoder_static/src/dec/io_dec.o: \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/io_dec.c \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8i_dec.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/common_dec.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8li_dec.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/webpi_dec.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/rescaler_utils.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/types.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8_dec.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/decode.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/./types.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/bit_reader_utils.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/color_cache_utils.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/dsp.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/huffman_utils.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/format_constants.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/random_utils.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/thread_utils.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/yuv.h \
+  /data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/utils.h
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8i_dec.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/common_dec.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8li_dec.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/webpi_dec.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/rescaler_utils.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/types.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dec/vp8_dec.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/decode.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/./types.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/bit_reader_utils.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/color_cache_utils.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/dsp.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/huffman_utils.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/webp/format_constants.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/random_utils.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/thread_utils.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/dsp/yuv.h:
+
+/data/Proyectos/Anima-Psionic-Cards/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libwebp/src/utils/utils.h:
